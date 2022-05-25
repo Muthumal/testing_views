@@ -7,22 +7,7 @@
   <dependencies>
     <dependency>
       <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-common</artifactId>
-      <version>7.2.0</version>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-runtime</artifactId>
-      <version>7.2.0</version>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-adapters</artifactId>
-      <version>7.2.0</version>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-ktx</artifactId>
+      <artifactId>databinding-compiler-common</artifactId>
       <version>7.2.0</version>
     </dependency>
   </dependencies>
