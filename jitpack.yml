@@ -1,2 +1,2 @@
 FILE="-Dfile=test.aar" 
-mvn install:install-file $FILE -DgroupId=lk.lm.testing_views -DartifactId=final -Dversion=1.0 -Dpackaging=aar -DgeneratePom=true
+mvn install:install-file $FILE -DgroupId=lk.lm.testing_views -DartifactId=final -Dversion=1.0 -Dpackaging=aar -DpomFile=pom.xml
